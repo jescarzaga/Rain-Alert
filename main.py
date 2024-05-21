@@ -4,8 +4,8 @@ import smtplib
 from dotenv import find_dotenv, load_dotenv
 
 api_key = "b00b01c13ffbc0b29a62d72840dc7692"
-MY_LAT = 32.735687
-MY_LON = -97.108063
+MY_LAT = 67.735687
+MY_LON = -1.023341
 
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
